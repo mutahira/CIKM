@@ -1,1 +1,1 @@
-# CIKM
+The DFS2C core is fully implemented, and we are actively developing new features, and adding tools. Running the application is straightforward—just follow the setup instructions included in the zip file. Please note that a running instance of Keycloak is currently required for the program to function properly.
